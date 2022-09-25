@@ -1,0 +1,16 @@
+SELECT
+orders.order_id, 
+orders.status as order_status,
+orders.created_at as order_created_at,
+users.id as buyer_id,
+users.gender as buyer_gender,
+users.country as buyer_country,
+items.id as items_id,
+items.sale_price as item_sale_price,
+product.category as product_category,
+product.brand as product_brand,
+product.department as product_department
+FROM `bigquery-public-data.thelook_ecommerce.orders` orders 
+LEFT JOIN `bigquery-public-data.thelook_ecommerce.users` users ON orders.user_id = users.id 
+LEFT JOIN `bigquery-public-data.thelook_ecommerce.order_items` items ON orders.order_id = items.order_id
+LEFT JOIN `bigquery-public-data.thelook_ecommerce.products` product ON items.product_id = product.id
