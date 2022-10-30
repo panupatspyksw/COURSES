@@ -1,0 +1,262 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "Flex message",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "size": "micro",
+          "body": {
+            "contents": [
+              {
+                "weight": "bold",
+                "text": "Sensoji Temple",
+                "type": "text",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs"
+                  },
+                  {
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "color": "#8c8c8c",
+                    "type": "text",
+                    "text": "5.0",
+                    "size": "xs",
+                    "margin": "md"
+                  }
+                ],
+                "layout": "baseline",
+                "type": "box"
+              },
+              {
+                "type": "box",
+                "contents": [
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "color": "#8c8c8c",
+                        "size": "xs",
+                        "text": "Chome-3-1 Asakusa, Taito City, Tokyo 111-0032 Japan",
+                        "type": "text",
+                        "wrap": true
+                      }
+                    ],
+                    "layout": "baseline",
+                    "spacing": "sm"
+                  }
+                ],
+                "layout": "vertical"
+              }
+            ],
+            "paddingAll": "13px",
+            "layout": "vertical",
+            "type": "box",
+            "spacing": "sm"
+          },
+          "hero": {
+            "aspectRatio": "320:213",
+            "size": "full",
+            "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnHyQAG3v4hzHWPHdvWcPhIxPexxgWz-F9CFbn4U0TQYs4ms1wwWkMgYrTgplwqNmwDSmPajIsVI0Guu3jex7VSw",
+            "aspectMode": "cover",
+            "type": "image"
+          },
+          "type": "bubble"
+        },
+        {
+          "size": "micro",
+          "type": "bubble",
+          "body": {
+            "paddingAll": "13px",
+            "spacing": "sm",
+            "contents": [
+              {
+                "text": "Imperial Palace",
+                "type": "text",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  },
+                  {
+                    "color": "#8c8c8c",
+                    "margin": "md",
+                    "text": "4.0",
+                    "type": "text",
+                    "size": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "wrap": true,
+                        "type": "text",
+                        "text": "1-1 Chiyoda, Chiyoda City, Tokyo 100-8111 Japan",
+                        "size": "xs",
+                        "color": "#8c8c8c"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm"
+                  }
+                ]
+              }
+            ],
+            "layout": "vertical",
+            "type": "box"
+          },
+          "hero": {
+            "type": "image",
+            "aspectMode": "cover",
+            "url": "https://chillchilljapan.com/wp-content/uploads/2021/06/shutterstock_199515824.jpg",
+            "size": "full",
+            "aspectRatio": "320:213"
+          }
+        },
+        {
+          "size": "micro",
+          "body": {
+            "spacing": "sm",
+            "layout": "vertical",
+            "contents": [
+              {
+                "size": "sm",
+                "text": "Yoyogi Park",
+                "weight": "bold",
+                "type": "text"
+              },
+              {
+                "contents": [
+                  {
+                    "size": "xs",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "4.0",
+                    "margin": "md",
+                    "size": "sm",
+                    "color": "#8c8c8c"
+                  }
+                ],
+                "layout": "baseline",
+                "type": "box"
+              },
+              {
+                "contents": [
+                  {
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "color": "#8c8c8c",
+                        "type": "text",
+                        "size": "xs",
+                        "text": "2-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052 Japan",
+                        "wrap": true
+                      }
+                    ],
+                    "layout": "baseline",
+                    "type": "box"
+                  }
+                ],
+                "layout": "vertical",
+                "type": "box"
+              }
+            ],
+            "paddingAll": "13px",
+            "type": "box"
+          },
+          "type": "bubble",
+          "hero": {
+            "type": "image",
+            "size": "full",
+            "aspectRatio": "320:213",
+            "url": "https://chillchilljapan.com/wp-content/uploads/2021/12/yoyogi-park-5.jpg",
+            "aspectMode": "cover"
+          }
+        }
+      ]
+    }
+  }
+}
