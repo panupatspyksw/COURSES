@@ -1,0 +1,262 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "Flex message",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "size": "micro",
+          "hero": {
+            "size": "full",
+            "aspectMode": "cover",
+            "url": "https://www.agoda.com/wp-content/uploads/2019/05/Best-restaurants-in-Tokyo-Japanese-Soba-Noodles-Tsuta.jpg",
+            "aspectRatio": "320:213",
+            "type": "image"
+          },
+          "body": {
+            "paddingAll": "13px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "text": "Japanese Soba Noodles Tsuta",
+                "wrap": true,
+                "weight": "bold"
+              },
+              {
+                "contents": [
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                    "type": "icon",
+                    "size": "xs"
+                  },
+                  {
+                    "color": "#8c8c8c",
+                    "text": "4.0",
+                    "margin": "md",
+                    "type": "text",
+                    "size": "xs"
+                  }
+                ],
+                "layout": "baseline",
+                "type": "box"
+              },
+              {
+                "type": "box",
+                "contents": [
+                  {
+                    "spacing": "sm",
+                    "type": "box",
+                    "contents": [
+                      {
+                        "color": "#8c8c8c",
+                        "text": "1 Chome-14, Sugamo, Toshima, Tokyo 170-0002, Japan",
+                        "wrap": true,
+                        "type": "text",
+                        "size": "xs"
+                      }
+                    ],
+                    "layout": "baseline"
+                  }
+                ],
+                "layout": "vertical"
+              }
+            ],
+            "type": "box",
+            "spacing": "sm"
+          }
+        },
+        {
+          "body": {
+            "contents": [
+              {
+                "size": "sm",
+                "wrap": true,
+                "weight": "bold",
+                "text": "Imperial Palace",
+                "type": "text"
+              },
+              {
+                "layout": "baseline",
+                "type": "box",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs",
+                    "type": "icon"
+                  },
+                  {
+                    "size": "xs",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "size": "xs",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                    "type": "icon",
+                    "size": "xs"
+                  },
+                  {
+                    "margin": "md",
+                    "color": "#8c8c8c",
+                    "text": "4.0",
+                    "type": "text",
+                    "size": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "contents": [
+                  {
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "text": "2-6-15 Minami Aoyama, Minato 107-0062, Tokyo Prefecture",
+                        "wrap": true,
+                        "size": "xs",
+                        "type": "text",
+                        "color": "#8c8c8c"
+                      }
+                    ],
+                    "spacing": "sm",
+                    "type": "box"
+                  }
+                ],
+                "layout": "vertical"
+              }
+            ],
+            "layout": "vertical",
+            "type": "box",
+            "paddingAll": "13px",
+            "spacing": "sm"
+          },
+          "size": "micro",
+          "type": "bubble",
+          "hero": {
+            "aspectRatio": "320:213",
+            "aspectMode": "cover",
+            "type": "image",
+            "size": "full",
+            "url": "https://www.agoda.com/wp-content/uploads/2019/05/Best-restaurants-in-Tokyo-Narisawa-omakase-style-meal.jpg"
+          }
+        },
+        {
+          "body": {
+            "contents": [
+              {
+                "type": "text",
+                "text": "Sushi no Midori Ginza",
+                "weight": "bold",
+                "size": "sm"
+              },
+              {
+                "layout": "baseline",
+                "type": "box",
+                "contents": [
+                  {
+                    "size": "xs",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon",
+                    "size": "xs"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "xs"
+                  },
+                  {
+                    "size": "xs",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "margin": "md",
+                    "type": "text",
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "text": "5.0"
+                  }
+                ]
+              },
+              {
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "spacing": "sm",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "size": "xs",
+                        "text": "2-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052 Japan",
+                        "wrap": true,
+                        "color": "#8c8c8c",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "layout": "vertical",
+            "type": "box",
+            "paddingAll": "13px",
+            "spacing": "sm"
+          },
+          "hero": {
+            "aspectMode": "cover",
+            "url": "https://www.agoda.com/wp-content/uploads/2019/05/Best-restaurants-in-Tokyo-Sushi-no-Midori-Ginza-upscale-sushi.jpg",
+            "aspectRatio": "320:213",
+            "type": "image",
+            "size": "full"
+          },
+          "type": "bubble",
+          "size": "micro"
+        }
+      ]
+    }
+  }
+}
